@@ -78,7 +78,7 @@ pip install opencv-python mediapipe numpy
 
 All gestures are detected using real-time hand landmarks — no buttons required!
 
-🧠 How the Project Works (Simplified)
+🧠 How the Project Works
 
 1.OpenCV captures the webcam feed frame-by-frame.
 

@@ -55,13 +55,16 @@ pip install opencv-python mediapipe numpy
 ▶️ How to Run the Project
 
 💻 Using VS Code (or any terminal):
+
 1.Open your terminal inside the project folder.
+
 2.Run the main file:
 
 ```bash
   python Virtualcanvas.py
  ```
 3.Your webcam will open, and you’ll see your video feed with a canvas.
+
 4.Move your hand in front of the webcam to start drawing!
 
 ✋ How to Control the Canvas (Gestures)
@@ -69,20 +72,26 @@ pip install opencv-python mediapipe numpy
 | Action           | What to Do                                   |
 | ---------------- | -------------------------------------------- |
 | ✏️ Start Drawing | Raise **only index finger**                  |
-| 🧽 Erase         | Raise **two fingers** (index + middle) 
-|                   | select eraser and erase using index finger  |
+| 🧽 Erase         | Raise **two fingers** (index + middle) select eraser and erase using index finger |
 | 🟥 Change Colors | Raise **two fingers** (index + middle) select color  |
 | ❌ Exit the App   | Press **`ctrl+c`** key in terrminal |
+
 All gestures are detected using real-time hand landmarks — no buttons required!
 
 🧠 How the Project Works (Simplified)
+
 1.OpenCV captures the webcam feed frame-by-frame.
+
 2.MediaPipe detects and tracks 21 landmarks on your hand.
+
 3.The index finger tip is used as a drawing pointer.
+
 4.Drawing happens when only index finger is up (gesture logic).
+
 5.The canvas overlays are blended with the webcam video.
 
 🧰 How to Customize or Modify
+
 | Want to Change This?           | How to Do It                                       |
 | ------------------------------ | -------------------------------------------------- |
 | 🎨 Add more colors             | Edit the color palette in `Virtualcanvas.py`       |
@@ -100,10 +109,15 @@ All gestures are detected using real-time hand landmarks — no buttons required
 | 🤚 Drawing doesn’t start            | Only keep index finger up, steady in front of cam       |
 
 🧪 Example Use Case
+
 1.Build an AI Drawing App
+
 2.Teach computer vision concepts
+
 3.Fun hackathon or college project
+
 4.Replace mouse-based painting apps
+
 5.Can be used in touchless interaction systems 
 
 👨‍💻 Author

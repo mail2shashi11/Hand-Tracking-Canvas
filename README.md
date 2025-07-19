@@ -109,15 +109,16 @@ All gestures are detected using real-time hand landmarks — no buttons required
 | 🤚 Drawing doesn’t start            | Only keep index finger up, steady in front of cam       |
 
 🎯 Use Cases
-Smart classrooms 🏫
 
-Virtual whiteboards 🖥️
+-Smart classrooms 🏫
 
-Interactive art tools 🎨
+-Virtual whiteboards 🖥️
 
-Accessibility for physically challenged users ♿
+-Interactive art tools 🎨
 
-Touchless UI systems (COVID-safe apps)
+-Accessibility for physically challenged users ♿
+
+-Touchless UI systems (COVID-safe apps)
 
 
 📸 Screenshot
@@ -126,13 +127,19 @@ Touchless UI systems (COVID-safe apps)
 
 
 
-🙌 Author
-Akula Shashidhar
+👨‍💻 Author
+
+ Shashidhar
+
+🔗 GitHub: @mail2shashi11
+
 📧 mail2shashi11@gmail.com
-🔗 GitHub • LinkedIn
+
 
 📃 License
+
 This project is open-source under the MIT License.
+
 Feel free to use, modify, and share!
 
 ⭐ Support & Sharing

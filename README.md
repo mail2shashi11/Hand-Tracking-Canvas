@@ -121,15 +121,21 @@ All gestures are detected using real-time hand landmarks — no buttons required
 5.Can be used in touchless interaction systems 
 
 👨‍💻 Author
+
 Shashidhar
+
 🔗 GitHub: @mail2shashi11
 
 ⭐ Support & Sharing
+
 If this project helped you, please consider:
 
 🌟 Starring the repo
+
 🍴 Forking and modifying it
+
 📢 Sharing it with others
+
 💬 Suggesting improvements
 
 Thank you for checking out the Hand Tracking Canvas Project!

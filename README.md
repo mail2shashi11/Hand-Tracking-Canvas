@@ -120,9 +120,12 @@ All gestures are detected using real-time hand landmarks — no buttons required
 
 5.Can be used in touchless interaction systems 
 
+
 📸 Screenshot
 
 <img width="410" height="250" alt="image" src="https://github.com/user-attachments/assets/e44445ba-23e9-40a1-95bb-e270d77ff107" />
+
+
 
 👨‍💻 Author
 

@@ -108,17 +108,16 @@ All gestures are detected using real-time hand landmarks — no buttons required
 | 🛑 Program exits instantly          | Make sure `Virtualcanvas.py` is the file you're running |
 | 🤚 Drawing doesn’t start            | Only keep index finger up, steady in front of cam       |
 
-🧪 Example Use Case
+🎯 Use Cases
+Smart classrooms 🏫
 
-1.Build an AI Drawing App
+Virtual whiteboards 🖥️
 
-2.Teach computer vision concepts
+Interactive art tools 🎨
 
-3.Fun hackathon or college project
+Accessibility for physically challenged users ♿
 
-4.Replace mouse-based painting apps
-
-5.Can be used in touchless interaction systems 
+Touchless UI systems (COVID-safe apps)
 
 
 📸 Screenshot
@@ -127,12 +126,14 @@ All gestures are detected using real-time hand landmarks — no buttons required
 
 
 
-👨‍💻 Author
+🙌 Author
+Akula Shashidhar
+📧 mail2shashi11@gmail.com
+🔗 GitHub • LinkedIn
 
-Shashidhar
-
-🔗 GitHub: @mail2shashi11
-
+📃 License
+This project is open-source under the MIT License.
+Feel free to use, modify, and share!
 
 ⭐ Support & Sharing
 
